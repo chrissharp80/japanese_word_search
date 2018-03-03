@@ -1,0 +1,19 @@
+{
+  "name": "japanese_word_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdowdy70/japanese_word_search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdowdy70/japanese_word_search/issues"
+  },
+  "homepage": "https://github.com/sdowdy70/japanese_word_search#readme"
+}
