@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sdowdy70/japanese_word_search/issues"
   },
-  "homepage": "https://github.com/sdowdy70/japanese_word_search#readme"
+  "homepage": "https://github.com/sdowdy70/japanese_word_search#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
