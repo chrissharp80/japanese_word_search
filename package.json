@@ -1,7 +1,7 @@
 {
   "name": "japanese_word_search",
   "version": "1.0.0",
-  "description": "",
+  "description": "An game for the Japanese alphabet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/sdowdy70/japanese_word_search.git"
   },
-  "author": "An game for the Japanese alphabet",
+  "author": "Chris and Sherrie",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sdowdy70/japanese_word_search/issues"
